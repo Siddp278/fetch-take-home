@@ -10,4 +10,4 @@ Steps to run the application:
 5. The above command intitates all the necessary django table required, if already present it would show no changes.
 6. Fnally run te command - python manage.py runserver. It would open a page that looks like:
 
-![The page](http://url/to/img.png)
+![The page](https://github.com/Siddp278/fetch-take-home/blob/main/img/Screenshot%202023-02-03%20202910.png)
